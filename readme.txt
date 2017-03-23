@@ -6,5 +6,9 @@ Git tracks changes of files.
 
 创建一个新的分支 dev 位置住主分支master下一层
 
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
 
+=======
+Creating a new branch is quicj AND simple.
+>>>>>>> feature1
